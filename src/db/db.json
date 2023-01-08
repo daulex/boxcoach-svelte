@@ -1,0 +1,10 @@
+{
+  "punch_types": {
+    "1": "Jab",
+    "2": "Cross",
+    "3": "Left hook",
+    "4": "Right hook",
+    "5": "Left uppercut",
+    "6": "Right uppercut"
+  }
+}
